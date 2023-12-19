@@ -1,1 +1,0 @@
-blender -b Test.blend -F PNG -E CYCLES -o //render -a
